@@ -94,6 +94,7 @@
 
 # Referance
   https://openwrt.org/docs/guide-user/virtualization/virtualbox-vm
+  https://openwrt.org/docs/guide-developer/quickstart-build-images
    
 # To install the packages refer
   https://openwrt.org/docs/guide-user/services/webserver/lighttpd
